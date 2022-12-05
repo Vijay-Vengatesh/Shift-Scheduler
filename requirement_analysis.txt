@@ -1,0 +1,4 @@
+1.The main objective of the application(web and desktop) is to create monthly working shifts 
+and timings for workers for a geographically distributed teams 
+
+2. 
